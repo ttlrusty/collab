@@ -218,9 +218,6 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
-        <name>Report</name>
-    </types>
-    <types>
         <members>*</members>
         <name>ReportType</name>
     </types>
