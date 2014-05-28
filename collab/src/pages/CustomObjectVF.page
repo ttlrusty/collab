@@ -5,5 +5,5 @@
           <apex:column value="{!co.Field1__c}"/>
       </apex:pageBlockTable>
   </apex:pageBlock>
-  test
+  test2
 </apex:page>
