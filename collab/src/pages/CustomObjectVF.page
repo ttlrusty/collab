@@ -1,0 +1,8 @@
+<apex:page controller="dynamicQuery">
+  <apex:pageBlock >
+      <apex:pageBlockTable value="{!coList}" var="co">
+          <apex:column value="{!co.Name}"/>
+          <apex:column value="{!co.Field1__c}"/>
+      </apex:pageBlockTable>
+  </apex:pageBlock>
+</apex:page>
