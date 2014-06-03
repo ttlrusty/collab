@@ -5,20 +5,4 @@
           <apex:column value="{!co.Field1__c}"/>
       </apex:pageBlockTable>
   </apex:pageBlock>
-  test4
-  
-  tseteing 
-  
-  test 998
-  
-  
-  ERROR
-  test6 alijd
-  
-  working
-  
-  NO ERROR
-  
-  
-  CHANGES
 </apex:page>
