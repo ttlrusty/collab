@@ -1,0 +1,26 @@
+<apex:page controller="dynamicQuery">
+  <apex:pageBlock >
+      <apex:pageBlockTable value="{!coList}" var="co">
+          <apex:column value="{!co.Name}"/>
+          <apex:column value="{!co.Field1__c}"/>
+      </apex:pageBlockTable>
+  </apex:pageBlock>
+  test4
+  
+  tseteing 
+  
+  test 998
+  
+  
+  ERROR
+  test6 alijd
+  
+  working
+  
+  NO ERROR
+  
+  
+  CHANGES DEV1
+  
+  6 10 2014
+</apex:page>
