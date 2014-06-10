@@ -9,4 +9,8 @@ metadataFormatVersion=30.0
 namespacePrefix=
 packageName=unpackaged
 readTimeout=400
+<<<<<<< HEAD
 username=dev1@ttlcollab.com
+=======
+username=dev2@ttlcollab.com
+>>>>>>> branch 'master' of https://github.com/ttlrusty/collab.git
