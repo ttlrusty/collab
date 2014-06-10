@@ -15,7 +15,6 @@
   ERROR
   test6 alijd
   
-<<<<<<< HEAD
   working
   
   NO ERROR
@@ -24,11 +23,4 @@
   CHANGES DEV1
   
   6 10 2014
-=======
-  
-  NO ERROR
-  
-  
-  CHANGES
->>>>>>> branch 'master' of https://github.com/ttlrusty/collab.git
 </apex:page>
