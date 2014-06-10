@@ -107,6 +107,7 @@
         <members>ContractContactRole</members>
         <members>DandBCompany</members>
         <members>Event</members>
+        <members>Idea</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Opportunity</members>
@@ -119,6 +120,7 @@
         <members>Pricebook2</members>
         <members>Product2</members>
         <members>Site</members>
+        <members>SiteChangelist</members>
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>Task</members>
@@ -144,6 +146,23 @@
     <types>
         <members>*</members>
         <name>DataCategoryGroup</name>
+    </types>
+    <types>
+        <members>unfiled$public</members>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
+        <members>unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE</members>
+        <members>unfiled$public/SalesNewCustomerEmail</members>
+        <members>unfiled$public/SupportCaseAssignmentNotification</members>
+        <members>unfiled$public/SupportCaseCreatedPhoneInquiries</members>
+        <members>unfiled$public/SupportCaseCreatedWebInquiries</members>
+        <members>unfiled$public/SupportCaseResponse</members>
+        <members>unfiled$public/SupportEscalatedCaseNotification</members>
+        <members>unfiled$public/SupportEscalatedCaseReassignment</members>
+        <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
+        <members>unfiled$public/SupportSelfServiceResetPassword</members>
+        <name>EmailTemplate</name>
     </types>
     <types>
         <members>Case.Standard</members>
@@ -216,6 +235,10 @@
     <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>unfiled$public</members>
+        <name>Report</name>
     </types>
     <types>
         <members>*</members>
